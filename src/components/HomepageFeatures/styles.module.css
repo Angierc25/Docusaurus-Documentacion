@@ -1,0 +1,21 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+.theme-toggle-container {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0.5rem 1rem;
+}
+
+.menu__list .theme-toggle {
+  margin-top: 0.5rem;
+  padding: 6px;
+}

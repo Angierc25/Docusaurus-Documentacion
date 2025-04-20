@@ -1,0 +1,82 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #5e2e91;
+  --ifm-color-primary-dark: #52267e;
+  --ifm-color-primary-darker: #481e6d;
+  --ifm-color-primary-darkest: #391856;
+  --ifm-color-primary-light: #7545a8;
+  --ifm-color-primary-lighter: #9067ba;
+  --ifm-color-primary-lightest: #b494d5;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #b892ff;
+  --ifm-color-primary-dark: #a379eb;
+  --ifm-color-primary-darker: #9066d5;
+  --ifm-color-primary-darkest: #7d52bf;
+  --ifm-color-primary-light: #c6a9ff;
+  --ifm-color-primary-lighter: #decaff;
+  --ifm-color-primary-lightest: #f1e7ff;
+}
+
+
+
+
+/* Cuando estás en la vista de docs (tutorial) */
+.docs-wrapper .navbar {
+  transform: translateX(-100%);
+  width: 0;
+  overflow: hidden;
+}
+
+/* Sidebar minimalista */
+.docs-wrapper .navbar-sidebar {
+  width: 80px; /* Ancho reducido */
+}
+
+.docs-wrapper .navbar-sidebar__brand {
+  justify-content: center;
+  padding: 12px 0;
+}
+
+.docs-wrapper .navbar-sidebar__items {
+  align-items: center;
+}
+
+.docs-wrapper .navbar-sidebar__items > div {
+  flex-direction: column;
+}
+
+.docs-wrapper .navbar-sidebar__back {
+  display: none; /* Oculta el botón de volver */
+}
+
+/* Muestra solo los elementos esenciales en el sidebar */
+.docs-wrapper .navbar-sidebar__item {
+  display: none;
+}
+
+.docs-wrapper .navbar-sidebar__item.github-link,
+.docs-wrapper .navbar-sidebar__item.search,
+.docs-wrapper .theme-toggle {
+  display: flex;
+  justify-content: center;
+}
+
+
+/* Personaliza el texto del título Inspektor */
+.navbar__title {
+  font-family: "PT Serif", serif;/* Cambia la fuente aquí */
+  color: #7d52bf; /* Cambia el color aquí */
+  font-size: 1.5rem; /* Opcional: cambia el tamaño */
+  font-weight: bold; /* Opcional: estilo */
+}
+
+
+
