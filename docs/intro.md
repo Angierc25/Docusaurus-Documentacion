@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 🛠️ Manuales Técnicos: Inspector de Elementos y Gestor de Contraseñas
 
 ## 🌐 **Introducción**
@@ -50,6 +54,3 @@ Este documento integra dos guías esenciales para el flujo de trabajo técnico:
 
 ---
 
-## 📌 **Próximos pasos**
-- [Ir al Manual del Inspector →](./inspeccionar-elementos/abrir-inspector.md)
-- [Ir al Manual del Gestor →](./gestor-contrasenas/instalacion.md)
