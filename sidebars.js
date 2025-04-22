@@ -53,11 +53,7 @@
           id: 'inspeccionar-elementos/pseudo-clases',
           label: 'Debug',
         },
-        {
-          type: 'doc',
-          id: 'inspeccionar-elementos/atributos',
-          label: 'Atajos Recomendados',
-        },
+      
         {
           type: 'doc',
           id: 'inspeccionar-elementos/box-model',

@@ -23,10 +23,9 @@ El panel de estilos del Inspector de Elementos permite editar reglas CSS directa
 ### 1. Edición directa de propiedades
 
 ```css
-/* Ejemplo de edición en vivo */
 .selector {
-  color: #ff0000; /* Haz clic para cambiar el valor */
-  font-size: 16px; /* Doble clic para modificar */
+  color: #ff0000; 
+  font-size: 16px; 
 }
 ```
 
@@ -72,7 +71,7 @@ Diagrama interactivo del box model en Chrome DevTools.
 
 ```css
 button:hover {
-  background-color: #4CAF50; /* Inspecciona estados :hover, :active, etc. */
+  background-color: #4CAF50; 
 }
 ```
 
