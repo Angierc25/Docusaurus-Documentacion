@@ -27,44 +27,29 @@ Bienvenido a la guía práctica de Inspektor, la herramienta esencial para reali
 ---
 
 
-# Website
+---
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
+### 📦 Instalar dependencias
 
 ```
-$ yarn
+npm install
 ```
 
-### Local Development
+Este comando descarga todos los paquetes necesarios definidos en `package.json`.
+
+### 🧪 Ejecutar en modo desarrollo
 
 ```
-$ yarn start
+npm run start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Inicia un servidor local y abre el sitio en tu navegador.  
+Ideal para ver los cambios en tiempo real mientras editas el contenido.
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
+### 🏗️ Generar sitio estático
 
 ```
-$ USE_SSH=true yarn deploy
+npm run build
 ```
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Crea la versión final del sitio en la carpeta `build/`, lista para ser desplegada en cualquier servicio de hosting estático.
