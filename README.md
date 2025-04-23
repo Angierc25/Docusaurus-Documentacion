@@ -13,6 +13,12 @@ Bienvenido a la guía práctica de Inspektor, la herramienta esencial para reali
 - 🐞 Debug
 - 📊 Visualización
 - >_ Usos básicos de Consola  
+- 🐛 Depurar event listeners
+- 🧭 Uso de pestaña Performance/Network
+- 🧠 Identificar cuellos de botella
+- ⌨️ Atajos de teclado
+- 📱 Responsive
+
 Esta guía forma parte del portal técnico disponible en: https://997039226.senati.chat.pe/docusaurus/
 
 
