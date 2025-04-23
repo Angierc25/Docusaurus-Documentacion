@@ -1,4 +1,4 @@
-Inspektor - Guía práctica del inspector
+🐄 Inspektor - Guía práctica del inspector 🛠️
 
 Esta guía práctica está diseñada para brindar a los inspectores una referencia clara y concisa sobre el uso de la plataforma Inspektor. Incluye procedimientos, recomendaciones y pasos a seguir en diferentes escenarios comunes dentro del proceso de inspección técnica.
 
