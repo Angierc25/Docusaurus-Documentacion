@@ -1,3 +1,17 @@
+Inspektor - Guía práctica del inspector
+
+Esta guía práctica está diseñada para brindar a los inspectores una referencia clara y concisa sobre el uso de la plataforma Inspektor. Incluye procedimientos, recomendaciones y pasos a seguir en diferentes escenarios comunes dentro del proceso de inspección técnica.
+
+Contenido clave:
+- Introducción al sistema Inspektor
+- Procedimientos de inspección
+- Gestión de reportes
+- Recomendaciones y mejores prácticas
+- Preguntas frecuentes
+
+Esta guía forma parte del portal técnico disponible en: https://997039226.senati.chat.pe/docusaurus/
+
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
