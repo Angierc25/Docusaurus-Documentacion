@@ -65,8 +65,8 @@ Graba y analiza todo el ciclo de vida del renderizado de la página: ejecución 
 ## 📸 Imágenes sugeridas
 
 ![Event Listeners](/img/enable-3g.png)   - Vista general del panel Network
-![Event Listeners](/img/enable-3g.png) - Detalles de una solicitud
-![Event Listeners](/img/enable-3g.png) - Resultado de grabación de rendimiento
+![Event Listeners](/img/img33.png) - Detalles de una solicitud
+![Event Listeners](/img/img44.png) - Resultado de grabación de rendimiento
 
 ## 📚 Recursos recomendados
 
