@@ -23,7 +23,7 @@ function HomepageHeader() {
       </div>
       {/* Imagen o SVG personalizado */}
       <div className={styles.heroImage}>
-        <img src="/img/undraw_code-inspection_z688.svg" alt="DevTools" />
+        <img src="img/DevTools.png" alt="DevTools" />
       </div>
     </header>
   );
