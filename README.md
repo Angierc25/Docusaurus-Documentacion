@@ -19,7 +19,12 @@ Bienvenido a la guía práctica de Inspektor, la herramienta esencial para reali
 - ⌨️ Atajos de teclado
 - 📱 Responsive
 
-Esta guía forma parte del portal técnico disponible en: https://997039226.senati.chat.pe/docusaurus/
+---
+
+📍 **Accede al portal técnico en:**  
+🌐 [https://997039226.senati.chat.pe/docusaurus/](https://997039226.senati.chat.pe/docusaurus/)
+
+---
 
 
 # Website
