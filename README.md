@@ -3,12 +3,12 @@
 Bienvenido a la guía práctica de Inspektor, la herramienta esencial para realizar inspecciones técnicas de manera eficiente y organizada. Esta guía está pensada para ser tu compañera de campo: clara, directa y fácil de consultar. ✅
 
 ## 📘 ¿Qué encontrarás aquí?
-- 🚀 Introducción al sistema Inspektor
 
-- Gestión de reportes
-- Recomendaciones y mejores prácticas
-- Preguntas frecuentes
-
+- 🚀 Introducción al sistema Inspektor  
+- 🔍 Procedimientos de inspección paso a paso  
+- 📝 Gestión de reportes y hallazgos  
+- 💡 Recomendaciones y buenas prácticas  
+- ❓ Preguntas frecuentes y solución de problemas  
 Esta guía forma parte del portal técnico disponible en: https://997039226.senati.chat.pe/docusaurus/
 
 
