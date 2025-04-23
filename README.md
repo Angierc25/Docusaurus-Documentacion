@@ -2,6 +2,7 @@
 
 Bienvenido a la guía práctica de Inspektor, la herramienta esencial para realizar inspecciones técnicas de manera eficiente y organizada. Esta guía está pensada para ser tu compañera de campo: clara, directa y fácil de consultar. ✅
 
+📘 ¿Qué encontrarás aquí?
 
 Contenido clave:
 - Introducción al sistema Inspektor
