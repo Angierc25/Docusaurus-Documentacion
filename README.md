@@ -4,11 +4,15 @@ Bienvenido a la guía práctica de Inspektor, la herramienta esencial para reali
 
 ## 📘 ¿Qué encontrarás aquí?
 
-- 🚀 Introducción al sistema Inspektor  
-- 🔍 Procedimientos de inspección paso a paso  
-- 📝 Gestión de reportes y hallazgos  
-- 💡 Recomendaciones y buenas prácticas  
-- ❓ Preguntas frecuentes y solución de problemas  
+- 🖱️ ¿Cómo abrir el Inspector?
+- 🧩 Interfaz
+- 👆 ¿Cómo seleccionar elementos en el DOM?
+- 💻 Editar HTML
+- 🏷️ Añadir/eliminar atributos
+- 🎨 Cambiar estilos en Tiempo Real
+- 🐞 Debug
+- 📊 Visualización
+- >_ Usos básicos de Consola  
 Esta guía forma parte del portal técnico disponible en: https://997039226.senati.chat.pe/docusaurus/
 
 
